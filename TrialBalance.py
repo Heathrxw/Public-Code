@@ -1,6 +1,7 @@
 print("Welcome to the Trial Balance Calculator enter the values for each detail.")
 print("If you dont have it put value as 0")
 print("Debit Input")
+
 Vehicles = input('Vehicles ')
 Machinery = input('Machinery ')
 Fixtures = input('Fixtures ')
